@@ -1,0 +1,21 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [
+    "Timestamp",
+    "Microservice",
+    "FreeCodeCamp"
+  ],
+  "author": "Ramiro Difonti",
+  "license": "MIT",
+  "description": "Un proyecto que trata sobre el Timestamp Microservice",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
